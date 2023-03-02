@@ -1,5 +1,7 @@
 # yet-another-programming-language
 
+[Try out here](https://xdvarpunen.github.io/yet-another-programming-language/)
+
 ## Syntax
 
 ```
