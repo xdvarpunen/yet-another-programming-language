@@ -3,12 +3,16 @@
 ## Syntax
 
 ```
-<function-name> <parameter-1> ... <parameter-n>
+<function-1-name> <parameter-1> ... <parameter-n>
 .
 .
 .
-<function-name> <parameter-1> ... <parameter-n>
+<function-n-name> <parameter-1> ... <parameter-n>
 ```
+
+- one function call per line
+- divider can be space or punctuation mark or anything you need
+- file extension can be anything you like
 
 That's that.
 
